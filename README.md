@@ -1,1 +1,1 @@
-echo "# Lab3" > README.md
+echo "second update" >> README.md
